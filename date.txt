@@ -1,0 +1,216 @@
+    1  date
+    2  man date
+    3  man 1date
+    4  man 1 date
+    5  man 2 date
+    6  clear
+    7  sudo apt-get udate
+    8  sudo apt-get update
+    9  sudo apt-get upgrade
+   10  man 5 pwd
+   11  man 5 passwd
+   12  man passws
+   13  man 5 passwd
+   14  cat etc/passwd
+   15  cat /etc/passwd
+   16  ls
+   17  cd ..
+   18  ls
+   19  cd ..
+   20  ls
+   21  cat /etc/passwd
+   22  sydo cat /etc/passwd
+   23  caer
+   24  claer
+   25  clear
+   26  ls
+   27  cat etc/passwd
+   28  cat /etc/passwd
+   29  sudo cat /etc/passwd
+   30  ls
+   31  cat /etc/passwd | grep "siwadon"
+   32  cat /etc/passwd
+   33  cat /etc/passwd | grep "nologin"
+   34  cat /etc/passwd | grep "siwadon"
+   35  man 5 passwd
+   36  sudo adduser ake
+   37  cat /etc/passwd | grep "ake"
+   38  man 5 passwd
+   39  cat /etc/passwd | grep /home
+   40  cat /etc/passwd | grep "/bin/bash"
+   41  whereis date
+   42  who
+   43  is
+   44  ls
+   45  ls -l
+   46  cd sbin
+   47  ls
+   48  cd ..
+   49  ll
+   50  cd usr
+   51  ls
+   52  mkdir linux-training
+   53  ls
+   54  cd linux-training
+   55  cd $home
+   56  pwd
+   57  sudo apt install tree
+   58  tree 
+   59  env
+   60  info
+   61  claer
+   62  clear
+   63  history
+   64  sudo apt install openssh-server
+   65  ip addr show
+   66  sudo shutdown now
+   67  myname = ake
+   68  NAME = ake
+   69  clear
+   70  ls
+   71  cd linux-training
+   72  vim ake.sh
+   73  sudo apt install vim
+   74  vim fist.sh
+   75  su fist.sh
+   76  sudo fist.sh
+   77  sh. /fist.sh
+   78  /fist.sh
+   79  fist.sh
+   80  sh.fist.sh
+   81  sh. /fist.sh
+   82  sh ./fist.sh
+   83  vim fist.sh
+   84  sh ./fist.sh
+   85  clear
+   86  vim fist.sh
+   87  sh ./fist.sh
+   88  vim fist.sh
+   89  sh ./fist.sh
+   90  vim fist.sh
+   91  sh ./fist.sh
+   92  vim fist.sh
+   93  clear
+   94  sh ./fist.sh
+   95  vim fist.sh
+   96  sh ./fist.sh
+   97  vim fist.sh
+   98  clear
+   99  sh ./fist.sh
+  100  vim fist.sh
+  101  sh ./fist.sh
+  102  vim fist.sh
+  103  clear
+  104  sh ./fist.sh
+  105  vim fist.sh
+  106  clear
+  107  sh ./fist.sh
+  108  vim testloop.sh
+  109  sh ./testloop.sh
+  110  clear
+  111  sh ./testloop.sh
+  112  vim testloop.sh
+  113  sh ./testloop.sh
+  114  vim testloop.sh
+  115  sh ./testloop.sh
+  116  clear
+  117  vim testloop.sh
+  118  vim loo1.sh
+  119  sh ./loo1.sh
+  120  vim loo1.sh
+  121  sh ./loo1.sh
+  122  vim loo1.sh
+  123  sh ./loo1.sh\
+  124  vim loo1.sh
+  125  sh ./loo1.sh\
+  126  vim loo1.sh
+  127  sh ./loo1.shds
+  128  vim loo1.sh
+  129  sh ./loo1.sh
+  130  vim loo1.sh
+  131  sh ./loo1.sh
+  132  vim loo1.sh
+  133  sh ./loo1.sh
+  134  vim loo1.sh
+  135  sh ./loo1.sh
+  136  vim loo1.sh
+  137  sh ./loo1.sh
+  138  clear
+  139  vim loo1.sh
+  140  sh ./loo1.sh
+  141  vim loo1.sh
+  142  sh ./loo1.sh
+  143  vim loo1.sh
+  144  sh ./loo1.sh
+  145  vim loo1.sh
+  146  sh ./loo1.sh
+  147  vim loo1.sh
+  148  sh ./loo1.sh
+  149  vim loo1.sh
+  150  sh ./loo1.sh
+  151  vim loo1.sh
+  152  sh ./loo1.sh
+  153  vim loo1.sh
+  154  sh ./loo1.sh
+  155  vim loo1.sh
+  156  sh ./loo1.sh
+  157  vim loo1.sh
+  158  sh ./loo1.sh
+  159  vim loo1.sh
+  160  echo date
+  161  echo $date
+  162  echo $(date ="%d-%b%Y")
+  163  echo $(date +"%d-%m-%Y")
+  164  echo $(date +"%d-%b-%Y")
+  165  cd linux-leaning
+  166  ls
+  167  cd linux-training
+  168  vi welcome.sh
+  169  tree
+  170  vi welcome.txt
+  171  vi welcome.sh
+  172  sh ./welcome.sh siwadon chanaboon
+  173  ls
+  174  vi welcome.sh
+  175  sh ./welcome.sh siwadon chanaboon
+  176  vi welcome.sh
+  177  sh ./welcome.sh siwadon chanaboon
+  178  vi welcome.sh
+  179  sh ./welcome.sh siwadon chanaboon
+  180  vi welcome.sh
+  181  ls
+  182  vi welcome.sh
+  183  clear
+  184  nano --version
+  185  nano welcome.sh
+  186  sudo apt install xrdp
+  187  sudo apt-get install xrdp
+  188  nano welcome.sh
+  189  sh ./welcome.sh siwadon chanaboon
+  190  clear
+  191  sh ./welcome.sh siwadon chanaboon
+  192  nano welcome.sh
+  193  ls
+  194  sh ./welcome.sh siwadon chanaboon
+  195  cat welcome.txt
+  196  nano welcome.sh
+  197  sh ./welcome.sh siwadon chanaboon
+  198  clear
+  199  cat welcome.sh
+  200  clear
+  201  sh ./welcome.sh siwadon chanaboon
+  202  tree
+  203  cd ..
+  204  ls -l
+  205  cp linux-training/welcome.sh github/shellscript-leaning/
+  206  cd github 
+  207  cd shellscript-leaning/
+  208  clear
+  209  ll
+  210  git push
+  211  git pull
+  212  git add .
+  213  git status
+  214  git commit -m "add file"
+  215  git push
+  216  history > date.txt
